@@ -10,3 +10,4 @@ libgda
 gsound
 ripgrep
 Pano clipboard
+Homebrew
