@@ -1,0 +1,11 @@
+git
+kitty terminal emulator
+neovim
+gcc compiler
+g++ compiler
+make
+curl
+libgda
+gsound
+ripgrep
+Pano clipboard
