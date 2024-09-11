@@ -11,3 +11,4 @@ gsound
 ripgrep
 Pano clipboard
 Homebrew
+fastfetch
