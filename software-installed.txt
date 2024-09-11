@@ -12,3 +12,4 @@ ripgrep
 Pano clipboard
 Homebrew
 fastfetch
+Discord
