@@ -15,3 +15,5 @@ fastfetch
 Discord
 LibreWolf
 Python
+Ruby
+OCaml
