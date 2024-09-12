@@ -13,3 +13,4 @@ Pano clipboard
 Homebrew
 fastfetch
 Discord
+LibreWolf
