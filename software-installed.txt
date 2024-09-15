@@ -20,3 +20,7 @@ OCaml
 https://github.com/lsd-rs/lsd
 Rust
 https://github.com/dandavison/delta?tab=readme-ov-file
+https://github.com/sharkdp/bat
+https://github.com/tldr-pages/tldr
+https://github.com/ajeetdsouza/zoxide
+https://github.com/cantino/mcfly
